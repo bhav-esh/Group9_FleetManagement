@@ -1,7 +1,5 @@
 # Fleet Manager
-A simple **API and CRUD** demonstration for a vehicle fleet management system. A work in progress. Built with React.js, React Router 4, Chakra CSS, FontAwesome 5, lightbox, Chart.js, API, and Bootstrap 4.
-
-Live **Site Demo** ~ [BaaS Dashboard](https://baasashboard.herokuapp.com/) 
+A simple **API and CRUD** demonstration for a vehicle fleet management system. A work in progress. Built with React.js, React Router 4, API, SpringBoot and Bootstrap 4.
 
 ![BaaS Dashboard 1](http://ryanhunter.ca/images/portfolio/baas_dashboard01.png)
 
@@ -22,18 +20,11 @@ Live **Site Demo** ~ [BaaS Dashboard](https://baasashboard.herokuapp.com/)
 - React.js
 - React Router 4
 - Axios and API consumption
-- Internationalization
-- Image Lightbox demo
 - Chakra CSS framework 
 - Bootstrap 4 CSS framework 
 - FontAwesome 5 icons
 - Google Fonts
 - Filler text from https://pirateipsum.me 
-
-
-## License
-This project is licensed under the terms of the **MIT** license.
-
 
 ## Main Files & Directories
 ![Main Top Level Files & Directories](http://ryanhunter.ca/images/portfolio/baas_projectfiles.png)
