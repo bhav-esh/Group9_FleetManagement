@@ -32,8 +32,6 @@ A simple **API and CRUD** demonstration for a vehicle fleet management system. A
 ![BaaS Dashboard 1](http://ryanhunter.ca/images/portfolio/baas_dashboard01.png)
 
 ![BaaS Dashboard 2](http://ryanhunter.ca/images/portfolio/baas_dashboard02.png)
-
-![BaaS Project Files](http://ryanhunter.ca/images/portfolio/baas_projectfiles.png)
 	
 
 
