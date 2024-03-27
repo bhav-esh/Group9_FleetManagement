@@ -26,9 +26,6 @@ A simple **API and CRUD** demonstration for a vehicle fleet management system. A
 - Google Fonts
 - Filler text from https://pirateipsum.me 
 
-## Main Files & Directories
-![Main Top Level Files & Directories](http://ryanhunter.ca/images/portfolio/baas_projectfiles.png)
-
 
 ## Screenshot 
 
